@@ -19,6 +19,8 @@ import java.util.Map;
 
 public class Market extends JavaPlugin{
 
+	// Test
+
 	private static Economy econ = null;
 	
 	public static int BASE_POINT = 0;
